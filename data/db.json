@@ -1,0 +1,21 @@
+{
+    "blogs":[
+{
+    "title": "It",
+    "body": "Gonococcal keratosis (blennorrhagica)",
+    "author": "Cirillo",
+    "id": 1
+  }, {
+    "title": "Kanlam",
+    "body": "Threatened premature labor, antepartum condition or complication",
+    "author": "Teodoor",
+    "id": 2
+  }, {
+    "title": "Prodder",
+    "body": "Open wound of larynx, complicated",
+    "author": "Gav",
+    "id": 3
+  }
+]
+
+}
